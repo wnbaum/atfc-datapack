@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		" L ",
+		"LGL"
+	],
+	"key": {
+		"G": {
+			"tag": "forge:glass/colorless"
+		},
+		"L": {
+			"item": "tfc:wood/lumber/oak"
+		}
+	},
+	"result": {
+		"item": "create:oak_window",
+		"count": 2
+	}
+}
